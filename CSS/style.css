@@ -80,7 +80,7 @@ nav ul li a:hover {
 .text-container{
     position: absolute;
     left:20%;
-    top:65%;
+    top:35%;
     transform:translate(-13%,-42%);
 }
 .text-container button{
